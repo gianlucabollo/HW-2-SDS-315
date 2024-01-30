@@ -1,6 +1,6 @@
 ---
 title: "HW 2 - SDS 315"
-author: "Gianluca Bollo (gb25625): insert link here"
+author: "Gianluca Bollo (gb25625): https://github.com/gianlucabollo/HW-2-SDS-315.git"
 date: "1/30/2024"
 output:
   pdf_document: default
